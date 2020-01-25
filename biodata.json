@@ -1,0 +1,38 @@
+{
+    "nama": "Muhammad Syahendra Anindyantoro",
+    "Age": 23,
+    "addreas": "Jl Beo 1, Perum Barito 1 RT 2/X Gonilan Kartasura, Jawa Tengah",
+    "hobby": {
+        "Hobby_Utama": "Browsing",
+        "Hobby_Sampingan": "Game",
+        "Hobby_gabut": "Codding"
+    },
+    "is_married": false,
+    "list_school": [{
+            "SD": "SD Muhammadiyah 16 SKA",
+            "Tahun": "2002-2008"
+        },
+        {
+            "SMP": "SMP Muhammadiyah 1 Surakarta",
+            "Tahun": "2008-2011"
+        },
+        {
+            "SMA": "SMA Muhammadiyah 2 Surakarta",
+            "Tahun": "2011-2014",
+            "Major": "IPA"
+        },
+        {
+            "Universitas": "Universitas Muhammadiyah Surakarta ",
+            "Tahun": "2014-2018",
+            "Major": "Electrical Engineering"
+        }
+    ],
+    "skill": {
+        "level": [
+            "Beginner",
+            "Advanced",
+            "Expert"
+        ]
+    },
+    "interest_in_coding": true
+}
