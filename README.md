@@ -12,6 +12,12 @@ Bahasa : Python
     3. Ketik nama lengkap Muhammad Syahendra Anindyantoro (Karena file JSON hanya 1 nama)
     4. Enter maka hasil dari file JSON akan otomatis keluar
 
+Kegunaan JSON dan Rest API:
+1. Untuk mengambil sebuah data di sebuah website yang kita tidak perlu mengambil satu persatu atau manual.
+2. Untuk menampilkan sebuah harga, gambar, dan nama barang tanpa harus mengedit web kita.
+3. Untuk Membuat list otomatis hanya melakukan panggilan.
+
+
 2.  Program bahasa Python.
     Sofware yang digunakan Visual Studio Code
     Cara Kerja :
