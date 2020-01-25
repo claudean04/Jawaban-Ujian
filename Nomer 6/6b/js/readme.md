@@ -1,0 +1,1 @@
+Hanya isi javascript
