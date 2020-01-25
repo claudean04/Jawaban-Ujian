@@ -41,7 +41,9 @@ Bahasa : Python
     2. Ketik py 5.py
     3. edit prices: [10, 2, 11, 20, 3, 5] maka akan keluar hasil 18. jika kita memasukkan prices: [33, 29, 11, 3] Tidak bisa mendapatkan profit pada hari hari ini.
 
-6.  1. Buka index.html. kalau bisa menggunakan software vscode agar bisa menggunakan liveserver
+6.  Software Visual Studio Code
+    framework bootstrap 4.4.1
+    1. Buka index.html. kalau bisa menggunakan software vscode agar bisa menggunakan liveserver
     2. ketika di klik add maka akan menampilkan pop up untuk menambahkan.
     
 
